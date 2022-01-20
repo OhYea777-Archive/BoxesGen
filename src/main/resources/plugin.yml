@@ -1,0 +1,16 @@
+name: BoxesGen
+version: 0.1
+main: com.ohyea777.boxesgen.BoxesGen
+authors: [OhYea777]
+
+commands:
+  join:
+    aliases: [j]
+  leave:
+    aliases: [l]
+  loc:
+    aliases: [location]
+  pause:
+    description: Pauses the game
+  play:
+    description: Plays the game
